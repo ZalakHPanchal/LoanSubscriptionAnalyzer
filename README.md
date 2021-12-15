@@ -39,6 +39,6 @@ https://archive.ics.uci.edu/ml/datasets/bank+marketing
     
     - splitting the dataset(70:30;70% in train and 30% in test)
     
-    - For the binary classification, the following linear and non-linear machine learning approaches were attempted: Decision Tree Classification, Logistic regression, Linear   Discriminative Analysis, K-nearest neighbor, Support Vector Machine(SVM and kernel-SVM).
+    - For the binary classification, the following linear and non-linear machine learning approaches were attempted: Decision Tree Classification, Logistic regression, Linear   Discriminative Analysis, K-nearest neighbour, Support Vector Machine(SVM and kernel-SVM).
     
     
